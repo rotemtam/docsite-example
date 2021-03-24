@@ -1,0 +1,18 @@
+{
+  "title": {
+    "message": "האתר שלי",
+    "description": "The title in the navbar"
+  },
+  "item.label.Docs": {
+    "message": "מסמכים",
+    "description": "Navbar item with label Docs"
+  },
+  "item.label.Blog": {
+    "message": "בלוג",
+    "description": "Navbar item with label Blog"
+  },
+  "item.label.GitHub": {
+    "message": "גיטהאב",
+    "description": "Navbar item with label GitHub"
+  }
+}
